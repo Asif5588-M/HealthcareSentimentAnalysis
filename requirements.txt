@@ -1,0 +1,15 @@
+transformers
+torch
+pandas
+numpy
+streamlit
+plotly
+pymongo[srv]
+python-dotenv
+scikit-learn
+nltk
+textblob
+wordcloud
+matplotlib
+seaborn
+pillow
